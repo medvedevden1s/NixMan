@@ -9,7 +9,7 @@ namespace ConsoleApplication1
         static void Main()
         {
             SqlConnection connection;
-         
+         //Git test
 
             try
             {
