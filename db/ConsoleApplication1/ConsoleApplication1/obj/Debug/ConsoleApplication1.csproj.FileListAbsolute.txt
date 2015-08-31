@@ -1,0 +1,11 @@
+D:\Connecture\LocalDataBase\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Connecture\LocalDataBase\ConsoleApplication1\ConsoleApplication1\bin\Debug\DataBase.mdf
+D:\Connecture\LocalDataBase\ConsoleApplication1\ConsoleApplication1\bin\Debug\DataBase_log.ldf
+D:\Connecture\LocalDataBase\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Connecture\LocalDataBase\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Connecture\LocalDataBase\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Connecture\LocalDataBase\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Connecture\LocalDataBase\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\NixMan\NixMan\db\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\NixMan\NixMan\db\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\NixMan\NixMan\db\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
