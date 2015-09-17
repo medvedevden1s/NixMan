@@ -1,0 +1,9 @@
+D:\Connecture\test\speachTest\speachTest\bin\Debug\speachTest.exe.config
+D:\Connecture\test\speachTest\speachTest\bin\Debug\speachTest.exe
+D:\Connecture\test\speachTest\speachTest\bin\Debug\speachTest.pdb
+D:\Connecture\test\speachTest\speachTest\obj\Debug\speachTest.csprojResolveAssemblyReference.cache
+D:\Connecture\test\speachTest\speachTest\obj\Debug\speachTest.Form1.resources
+D:\Connecture\test\speachTest\speachTest\obj\Debug\speachTest.Properties.Resources.resources
+D:\Connecture\test\speachTest\speachTest\obj\Debug\speachTest.csproj.GenerateResource.Cache
+D:\Connecture\test\speachTest\speachTest\obj\Debug\speachTest.exe
+D:\Connecture\test\speachTest\speachTest\obj\Debug\speachTest.pdb
